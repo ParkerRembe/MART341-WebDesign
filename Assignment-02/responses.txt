@@ -1,0 +1,5 @@
+The internet is a global network of networks and the worls wide web is a collection of information
+The internet moves data from one place to another, our information of the internet (Data) moves across servers called "Packet Switching"
+A directory is a file system cataloging structure which contains references to other computer files
+It will show me the changes ive made and I will be able to use it to help me see what I have done
+Photography 
