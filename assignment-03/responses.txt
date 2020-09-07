@@ -1,0 +1,6 @@
+1. https://www.espn.com/
+2. https://www.cbssports.com/
+3. http://www.espn.com/video/sportscenter
+A DNS address is a Domain Name Service which is used to convert alphabetic references into a server's IP address generally for hosting services.
+a small piece of data stored on the user's computer by the web browser while browsing a website.
+a host, a query, and a path
